@@ -1,0 +1,6 @@
+pyqt5
+onnxruntime
+opencv-python
+pydicom
+SimpleITK
+pytest
